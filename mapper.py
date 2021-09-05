@@ -19,7 +19,7 @@ stop_words = ['ourselves', 'hers', 'between', 'yourself', 'but', 'again',
   'did', 'not', 'now', 'under', 'he', 'you', 'herself', 'has', 'just', 'where',
   'too', 'only', 'myself', 'which', 'those', 'i', 'after', 'few', 'whom', 't',
   'being', 'if', 'theirs', 'my', 'against', 'a', 'by', 'doing', 'it', 'how',
-  'further', 'was', 'here', 'than']
+  'further', 'was', 'here', 'than', '.', '?', ';', '!', ' ;', ',', ':']
 
 # get all lines from stdin
 for line in sys.stdin:
